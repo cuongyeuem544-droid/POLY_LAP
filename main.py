@@ -1,4 +1,5 @@
 # Commit 1
+# Commit 2
 # Chương trình quản lý cửa hàng POLY_LAP
 
 from product_manager import*
