@@ -4,6 +4,7 @@
 # Commit 4
 # Commit 5
 # Commit 6
+# Commit 7
 # Chương trình quản lý cửa hàng POLY_LAP
 
 from product_manager import*
