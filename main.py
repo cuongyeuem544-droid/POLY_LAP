@@ -16,6 +16,7 @@ from product_manager import*
 
 # Tải dữ liệu khi bắt đầu chương trình
 products = load_data()
+products = load_data()
 
 while True:
     print("\n==== MENU ====")
