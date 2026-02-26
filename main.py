@@ -12,6 +12,7 @@
 # Merge demo 1
 # merge demo 2
 # Commit lan1
+# Commit lan 2
 # Chương trình quản lý cửa hàng POLY_LAP
 
 from product_manager import*
